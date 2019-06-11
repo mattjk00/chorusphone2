@@ -1,3 +1,4 @@
+// Matthew Kleitz, 2019
 const START = 0;
 const MAIN = 1;
 var state = START;
